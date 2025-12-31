@@ -1,3 +1,5 @@
+# Welcome to portfolio
+
 # Aadhyanth Rao | Portfolio
 
 A modern, responsive portfolio website showcasing my skills, projects, and experience as a Full Stack Developer & AI Enthusiast.
