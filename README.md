@@ -1,73 +1,91 @@
-# Welcome to your Lovable project
+# Welcome to portfolio
 
-## Project info
+# Aadhyanth Rao | Portfolio
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+A modern, responsive portfolio website showcasing my skills, projects, and experience as a Full Stack Developer & AI Enthusiast.
 
-## How can I edit this code?
+## 🌐 Live Demo
 
-There are several ways of editing your application.
+**URL**: [aadhyanth.dev](https://aadhyanth.dev)
 
-**Use Lovable**
+## ✨ Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- 🎨 Modern glassmorphism design with smooth animations
+- 📱 Fully responsive across all devices
+- 🌙 Beautiful dark theme
+- ⚡ Fast performance with Vite
+- 🔗 Active navigation highlighting on scroll
+- 📧 Direct Gmail integration for contact form
+- 🎭 Typing animation and floating effects
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠️ Tech Stack
 
-**Use your preferred IDE**
+- **Framework:** React 18 with TypeScript
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS
+- **UI Components:** shadcn/ui
+- **Icons:** Lucide React
+- **Animations:** CSS Keyframes & Transitions
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🚀 Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Prerequisites
 
-Follow these steps:
+- Node.js 18+ installed
+- npm or yarn package manager
+
+### Installation
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Clone the repository
+git clone https://github.com/aadhyanth/stellar-portfolio-showcase.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Navigate to project directory
+cd stellar-portfolio-showcase
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The app will be running at `http://localhost:8080`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Build for Production
 
-**Use GitHub Codespaces**
+```sh
+npm run build
+```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📁 Project Structure
 
-## What technologies are used for this project?
+```
+src/
+├── components/       # React components
+│   ├── ui/          # shadcn/ui components
+│   ├── Hero.tsx     # Landing section
+│   ├── About.tsx    # About me section
+│   ├── Skills.tsx   # Technical skills
+│   ├── Projects.tsx # Featured projects
+│   ├── Experience.tsx # Work experience
+│   └── Contact.tsx  # Contact form
+├── pages/           # Page components
+├── hooks/           # Custom React hooks
+├── lib/             # Utility functions
+└── assets/          # Static assets
+```
 
-This project is built with:
+## 📬 Contact
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Email:** aadhyanthrao205@gmail.com
+- **LinkedIn:** [aadhyanth205](https://linkedin.com/in/aadhyanth205)
+- **GitHub:** [aadhyanth](https://github.com/aadhyanth)
 
-## How can I deploy this project?
+## 📄 License
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+This project is open source and available under the [MIT License](LICENSE).
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Made with ❤️ by Aadhyanth Rao
